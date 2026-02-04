@@ -1,0 +1,7 @@
+{
+  "name": "SentinelAI - Built to see threats first",
+  "description": "A comprehensive, AI-driven security auditor for cloud, hybrid, and hypervisor environments. Features region-based compliance filtering (US, EU, APAC), coverage for NIST AI RMF, ISO 42001, CIS v8, and specialized mitigation guides.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
