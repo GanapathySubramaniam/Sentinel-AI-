@@ -65,6 +65,7 @@ SentinelAI is an advanced **multimodal compliance automation platform** that per
 
 ### 🎨 **Advanced UI/UX**
 - **War Room Mode**: Retro-cyberpunk CRT terminal aesthetic with customizable themes (Green, Amber, Cyan)
+- **Accessibility-First Design**:: UI color palettes and contrast ratios are designed with color-blind accessibility (WCAG-aligned) considerations to ensure critical security insights are distinguishable for all users
 - **Multi-Tab Interface**: Switch between Security Reports and Attack Simulations
 - **Floating Dock Navigation**: Quick access to all analysis tools
 - **Report Versioning**: Track all analysis changes with timestamps
@@ -200,8 +201,8 @@ sentinelai/
    - Understand business impact
    - Prioritize fixes based on exploit complexity
 
-4. **Chat with Copilot**
-   - Ask technical questions
+4. **Chat with SentinalAI Command Chat Interface**
+   - Ask technical questions using Voice assistant or text
    - Upload specific config files for deep analysis
    - Request report modifications
    - Get remediation guidance
